@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
+[![MasterHead](https://camo.githubusercontent.com/8c40d53c690646a194c3c83ada57768915bf28e38b07dc7b48f6499ee6b69958/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323036393430322f73637265656e73686f74732f353537343731382f6769662d346d622e676966)
 <h1 align="center">Hi 👋, I'm Sayandeep Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
