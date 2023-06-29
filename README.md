@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssayandeep&show_icons=true&locale=en" alt="itssayandeep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itssayandeep&" alt="itssayandeep" /></p>
+<p align="center" height="30"> Thanks for visiting. If you like, then please give a star </p>
