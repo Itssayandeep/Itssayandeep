@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssayandeep&label=Profile%20views&color=0e75b6&style=flat" alt="itssayandeep" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sayandeepb88699" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeepb88699?logo=twitter&style=for-the-badge" alt="sayandeepb88699" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sayandeeptweets" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeeptweets?logo=twitter&style=for-the-badge" alt="sayandeeptweets" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **HTML,CSS, JAVASCRIPT**
 
 - 📫 How to reach me **biswassayandeep2004@gmail.com**
 
