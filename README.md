@@ -1,4 +1,4 @@
-![logo](https://github.com/Itssayandeep/Itssayandeep/blob/main/biswassayandeep2004%40gmail.com(1).png)
+![logo](https://github.com/Itssayandeep/Itssayandeep/blob/main/biswassayandeep2004%40gmail.com%20(1).png)
 <h1 align="center">Hi 👋, I'm Sayandeep Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
