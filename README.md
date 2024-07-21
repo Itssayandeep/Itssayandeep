@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayandeeptweets" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeeptweets?logo=twitter&style=for-the-badge" alt="sayandeeptweets" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, JAVASCRIPT**
+- 🌱 I’m currently learning **HTML,CSS, JAVASCRIPT, REACTJS**
 
 - 📫 How to reach me **biswassayandeep2004@gmail.com**
 
